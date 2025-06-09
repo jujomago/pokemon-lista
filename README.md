@@ -4,6 +4,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Una aplicación React con TypeScript que implementa autenticación y visualización de datos de la PokéAPI con más de 2000 elementos.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/29bf2dbf-43bf-489e-b1a6-46ef285313a2" width="600" />
+</div>
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **React 19** con TypeScript
