@@ -32,7 +32,6 @@ Una aplicación React con TypeScript que implementa autenticación y visualizaci
 1. **Clonar el repositorio**
    \`\`\`bash
    git clone <url-del-repositorio>
-   cd react-auth-app
    \`\`\`
 
 2. **Instalar dependencias**
