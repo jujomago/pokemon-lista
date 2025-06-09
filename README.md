@@ -31,7 +31,7 @@ Una aplicación React con TypeScript que implementa autenticación y visualizaci
 
 1. **Clonar el repositorio**
    \`\`\`bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/jujomago/pokemon-lista.git   
    \`\`\`
 
 2. **Instalar dependencias**
